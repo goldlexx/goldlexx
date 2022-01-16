@@ -2,7 +2,7 @@
 
 Skills: REACT / JS / HTML / CSS
 
-#  <center> [My portfolio](https://goldlexx.github.io/) </center>
+#   [My portfolio](https://goldlexx.github.io/) 
 
 - 🔭 I’m currently working on this page. 
 
