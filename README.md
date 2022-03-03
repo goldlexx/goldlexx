@@ -1,10 +1,22 @@
-### Hi there 👋, my name is Ruslan
+# 👋 Привет
+## Я Junior front-end разработчик
+### Мои последние работы можно увидеть здесь: [Портфолио](https://goldlexx.github.io/)
+### Приоритеты:
++ 🧼 Стараюсь писать чистый код
++ 🚀 Осваиваю новые технологии
++ ⏱ Учусь анализировать сложность алгоритмов / улучшать производительность
 
-Skills: REACT / JS / HTML / CSS
+### Используемые языки и технологии: 
+![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
+![ReactJS](https://img.shields.io/badge/-ReactJS-0d1117?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-0d1117?style=for-the-badge&logo=Redux)
+![API](https://img.shields.io/badge/-REST&#032;API-0d1117?style=for-the-badge)
+![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack)
+![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-0d1117?style=for-the-badge&logo=sass)
 
-#   [My portfolio](https://goldlexx.github.io/) 
 
-- 🔭 I’m currently working on this page. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/goldlexx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/rustikyuldashev//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/goldlexx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/79852126370?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%F0%9F%91%8B)  
+### Контакты:
+### 📧 Почта: rustik.yuldashev@yandex.ru
+### 🌐 Telegram: @goldlexx
