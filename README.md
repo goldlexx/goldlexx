@@ -19,7 +19,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-0d1117?style=for-the-badge&logo=sass)
 
 ### Codewars:
-![codewars](https://www.codewars.com/users/goldlexx/badges/large)
+![codewars](https://www.codewars.com/users/goldlexx/badges/small)
 
 ### Контакты:
 ### 📧 Почта: rustik.yuldashev@yandex.ru
