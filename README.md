@@ -1,5 +1,8 @@
-# 👋 Привет
-## Я Junior front-end разработчик
+=======
+<h1>Привет <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FFCC5B&width=500&height=40&lines=%D0%AF+Junior+front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg)
+
 ### Мои последние работы:
 [Mesto](https://github.com/goldlexx/mesto)
 [Путешествия по России](https://github.com/goldlexx/russian-travel)
@@ -19,6 +22,8 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack)
 
 
+### Codewars:
+![codewars](https://www.codewars.com/users/goldlexx/badges/small)
 
 ### Контакты:
 ### 📧 Почта: rustik.yuldashev@yandex.ru
