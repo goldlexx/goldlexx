@@ -4,7 +4,24 @@
 
 ### Мои последние работы:
 
-| [Mesto](https://github.com/goldlexx/mesto) | [Путешествия по России](https://github.com/goldlexx/russian-travel) | [How to learn](https://github.com/goldlexx/how-to-learn) | [Food](https://github.com/goldlexx/food) | [Dogsitting](https://dogsitting.ru/)
+| **Mesto** | [Проектная работа на GitHub](https://github.com/goldlexx/mesto/) |
+| ----------------- | -------------------------------------------------------------------- |
+
+| **Путешествия по России** | [Проектная работа на GitHub](https://github.com/goldlexx/russian-travel) |
+| ----------------- | -------------------------------------------------------------------- |
+
+| **How to learn** | [Проектная работа на GitHub](https://github.com/goldlexx/how-to-learn) |
+| ----------------- | -------------------------------------------------------------------- |
+
+| **Food** | [Проектная работа на GitHub](https://github.com/goldlexx/food) |
+| ----------------- | -------------------------------------------------------------------- |
+
+| **Dogsitting** | [Проектная работа на GitHub](https://dogsitting.ru/) |
+| ----------------- | -------------------------------------------------------------------- |
+
+
+
+| **[Mesto](https://github.com/goldlexx/mesto)** | [Путешествия по России](https://github.com/goldlexx/russian-travel) | [How to learn](https://github.com/goldlexx/how-to-learn) | [Food](https://github.com/goldlexx/food) | [Dogsitting](https://dogsitting.ru/) |
 | ----------------- | -------------------------------------------------------------------- |
 
 
