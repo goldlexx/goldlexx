@@ -35,7 +35,7 @@
 
 
 <div align="center">
-  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=goldlexxt&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
+  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=goldlexx&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=goldlexx&&hide_border=trueshow_icons=true&theme=react"/>
 </div>
 
