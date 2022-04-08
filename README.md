@@ -29,9 +29,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
 ![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
 
 ### Codewars:
 ![codewars](https://www.codewars.com/users/goldlexx/badges/small)
