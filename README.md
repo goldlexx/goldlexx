@@ -25,10 +25,12 @@
 + ⏱ Учусь анализировать сложность алгоритмов / улучшать производительность
 
 ### Используемые языки и технологии: 
-![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
-![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
-![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ### Codewars:
 ![codewars](https://www.codewars.com/users/goldlexx/badges/small)
@@ -44,7 +46,7 @@
 </div>
 
 ### Контакты:
-### 📧 Почта: rustik.yuldashev@yandex.ru
+### 📧 Почта: me@juldashev.ru
 ### 🌐 Telegram: @goldlexx
 
 ![](https://komarev.com/ghpvc/?username=goldlexx&style=flat-square&color=blueviolet)
