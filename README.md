@@ -4,20 +4,12 @@
 
 ### Мои последние работы:
 
-| **Mesto** | [Проектная работа на GitHub](https://github.com/goldlexx/mesto/) |
-| ----------------- | -------------------------------------------------------------------- |
+[![Mesto](https://img.shields.io/badge/-Mesto-141130?style=for-the-badge)](https://github.com/goldlexx/mesto/)
+[![Russian_travel](https://img.shields.io/badge/-Russian_travel-141130?style=for-the-badge)](https://github.com/goldlexx/russian-travel)
+[![How_to_learn](https://img.shields.io/badge/-How_to_learn-141130?style=for-the-badge)](https://github.com/goldlexx/how-to-learn)
+[![Food](https://img.shields.io/badge/-Food-141130?style=for-the-badge)](https://github.com/goldlexx/food)
+[![Dogsitting](https://img.shields.io/badge/-Dogsitting-141130?style=for-the-badge)](https://dogsitting.ru/)
 
-| **Путешествия по России** | [Проектная работа на GitHub](https://github.com/goldlexx/russian-travel) |
-| ----------------- | -------------------------------------------------------------------- |
-
-| **How to learn** | [Проектная работа на GitHub](https://github.com/goldlexx/how-to-learn) |
-| ----------------- | -------------------------------------------------------------------- |
-
-| **Food** | [Проектная работа на GitHub](https://github.com/goldlexx/food) |
-| ----------------- | -------------------------------------------------------------------- |
-
-| **Dogsitting** | [Ссылка на сайт](https://dogsitting.ru/) |
-| ----------------- | -------------------------------------------------------------------- |
 
 ### Приоритеты:
 + 🧼 Стараюсь писать чистый код
