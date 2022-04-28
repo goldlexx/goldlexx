@@ -38,7 +38,7 @@
 </div>
 
 ### Контакты:
-### 📧 Почта: me@juldashev.ru
-### 🌐 Telegram: @goldlexx
+[![Yandex](https://img.shields.io/badge/-me@juldashev.ru-141130?style=for-the-badge&logo=Gmail)](mailto:me@juldashev.ru)
+[![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/goldlexx)
 
 ![](https://komarev.com/ghpvc/?username=goldlexx&style=flat-square&color=blueviolet)
