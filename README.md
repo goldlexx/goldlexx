@@ -10,6 +10,7 @@
 [![Food](https://img.shields.io/badge/-Food-141130?style=for-the-badge)](https://github.com/goldlexx/food)
 [![Dogsitting](https://img.shields.io/badge/-Dogsitting-141130?style=for-the-badge)](https://dogsitting.ru/)
 [![Business_card](https://img.shields.io/badge/-Business_card-141130?style=for-the-badge)](https://github.com/goldlexx/card-website)
+[![Employee](https://img.shields.io/badge/-Employee-141130?style=for-the-badge)](https://goldlexx.github.io/salary/)
 
 
 ### Приоритеты:
@@ -18,6 +19,7 @@
 + ⏱ Учусь анализировать сложность алгоритмов / улучшать производительность
 
 ### Используемые языки и технологии: 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
