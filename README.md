@@ -10,6 +10,7 @@
 [![Food](https://img.shields.io/badge/-Food-141130?style=for-the-badge)](https://github.com/goldlexx/food)
 [![Dog](https://img.shields.io/badge/-Dog-141130?style=for-the-badge)](https://github.com/goldlexx/dog)
 [![Site_card](https://img.shields.io/badge/-Site_card-141130?style=for-the-badge)](https://github.com/goldlexx/card-website)
+[![Procrastinate](https://img.shields.io/badge/-Procrastinate-141130?style=for-the-badge)](https://github.com/goldlexx/procrastination)
 
 ### React:
 [![Employee](https://img.shields.io/badge/-Employee-141130?style=for-the-badge)](https://goldlexx.github.io/salary/)
