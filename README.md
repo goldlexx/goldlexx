@@ -8,8 +8,8 @@
 [![Russian_travel](https://img.shields.io/badge/-Russian_travel-141130?style=for-the-badge)](https://github.com/goldlexx/russian-travel)
 [![How_to_learn](https://img.shields.io/badge/-How_to_learn-141130?style=for-the-badge)](https://github.com/goldlexx/how-to-learn)
 [![Food](https://img.shields.io/badge/-Food-141130?style=for-the-badge)](https://github.com/goldlexx/food)
-[![Dogsitting](https://img.shields.io/badge/-Dogsitting-141130?style=for-the-badge)](https://dogsitting.ru/)
-[![Business_card](https://img.shields.io/badge/-Business_card-141130?style=for-the-badge)](https://github.com/goldlexx/card-website)
+[![Dog](https://img.shields.io/badge/-Dog-141130?style=for-the-badge)](https://github.com/goldlexx/dog)
+[![Site_card](https://img.shields.io/badge/-Site_card-141130?style=for-the-badge)](https://github.com/goldlexx/card-website)
 
 ### React:
 [![Employee](https://img.shields.io/badge/-Employee-141130?style=for-the-badge)](https://goldlexx.github.io/salary/)
