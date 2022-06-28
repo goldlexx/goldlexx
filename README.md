@@ -13,6 +13,7 @@
 [![Procrastinate](https://img.shields.io/badge/-Procrastinate-141130?style=for-the-badge)](https://github.com/goldlexx/procrastination)
 
 ### React:
+[![Mesto_React](https://img.shields.io/badge/-Mesto_React-141130?style=for-the-badge)](https://github.com/goldlexx/mesto-react)
 [![Employee](https://img.shields.io/badge/-Employee-141130?style=for-the-badge)](https://goldlexx.github.io/salary/)
 
 
