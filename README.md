@@ -14,6 +14,7 @@
 
 ### React:
 [![Mesto_React](https://img.shields.io/badge/-Mesto_React-141130?style=for-the-badge)](https://github.com/goldlexx/mesto-react)
+[![Mesto_Auth](https://img.shields.io/badge/-Mesto_Auth-141130?style=for-the-badge)](https://goldlexx.github.io/react-mesto-auth)
 [![Employee](https://img.shields.io/badge/-Employee-141130?style=for-the-badge)](https://goldlexx.github.io/salary/)
 
 
@@ -22,7 +23,7 @@
 + 🚀 Осваиваю новые технологии
 + ⏱ Учусь анализировать сложность алгоритмов / улучшать производительность
 
-### Используемые языки и технологии: 
+### Используемые языки и технологии:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
