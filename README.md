@@ -15,8 +15,8 @@
 ### React:
 [![Mesto_React](https://img.shields.io/badge/-Mesto_React-141130?style=for-the-badge)](https://github.com/goldlexx/mesto-react)
 [![Mesto_Auth](https://img.shields.io/badge/-Mesto_Auth-141130?style=for-the-badge)](https://goldlexx.github.io/react-mesto-auth)
+[![Marvel](https://img.shields.io/badge/-Marvel-141130?style=for-the-badge)](https://goldlexx.github.io/marvel/)
 [![Employee](https://img.shields.io/badge/-Employee-141130?style=for-the-badge)](https://goldlexx.github.io/salary/)
-
 
 ### Приоритеты:
 + 🧼 Стараюсь писать чистый код
