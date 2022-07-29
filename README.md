@@ -37,7 +37,6 @@
 
 
 ### Codewars:
-![codewars](	https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
 ![codewars](https://www.codewars.com/users/goldlexx/badges/small)
 
 
