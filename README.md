@@ -4,7 +4,7 @@
 
 ### Мои последние работы:
 
-[![Mesto](https://img.shields.io/badge/-Mesto-141130?style=for-the-badge)](https://github.com/goldlexx/mesto/)
+[![Mesto](https://img.shields.io/badge/-Mesto-141130?style=for-the-badge)](https://github.com/goldlexx/react-mesto-api-full/)
 [![Russian_travel](https://img.shields.io/badge/-Russian_travel-141130?style=for-the-badge)](https://github.com/goldlexx/russian-travel)
 [![How_to_learn](https://img.shields.io/badge/-How_to_learn-141130?style=for-the-badge)](https://github.com/goldlexx/how-to-learn)
 [![Food](https://img.shields.io/badge/-Food-141130?style=for-the-badge)](https://github.com/goldlexx/food)
