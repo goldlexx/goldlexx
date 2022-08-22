@@ -2,14 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FFCC5B&width=500&height=40&lines=%D0%AF+Junior+front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg)
 
-### Мои последние работы:
+### Верстка по макетам + Freelance:
+[![Dog](https://img.shields.io/badge/-Dog-141130?style=for-the-badge)](https://github.com/goldlexx/dog)
+[![Travel](https://img.shields.io/badge/-Travel-141130?style=for-the-badge)](https://github.com/goldlexx/travel)
+[![Site_card](https://img.shields.io/badge/-Site_card-141130?style=for-the-badge)](https://github.com/goldlexx/card-website)
 
+### Учебные работы:
 [![Mesto](https://img.shields.io/badge/-Mesto-141130?style=for-the-badge)](https://github.com/goldlexx/react-mesto-api-full/)
 [![Russian_travel](https://img.shields.io/badge/-Russian_travel-141130?style=for-the-badge)](https://github.com/goldlexx/russian-travel)
 [![How_to_learn](https://img.shields.io/badge/-How_to_learn-141130?style=for-the-badge)](https://github.com/goldlexx/how-to-learn)
 [![Food](https://img.shields.io/badge/-Food-141130?style=for-the-badge)](https://github.com/goldlexx/food)
-[![Dog](https://img.shields.io/badge/-Dog-141130?style=for-the-badge)](https://github.com/goldlexx/dog)
-[![Site_card](https://img.shields.io/badge/-Site_card-141130?style=for-the-badge)](https://github.com/goldlexx/card-website)
 [![Procrastinate](https://img.shields.io/badge/-Procrastinate-141130?style=for-the-badge)](https://github.com/goldlexx/procrastination)
 
 ### React:
