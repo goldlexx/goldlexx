@@ -1,61 +1,66 @@
-<h1>Привет <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# Ruslan Yuldashev
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FFCC5B&width=500&height=40&lines=%D0%AF+Junior+front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg)
+I build web applications and websites, from responsive interfaces to full-stack projects.
 
-### Верстка по макетам + Freelance:
-[![Dog](https://img.shields.io/badge/-Dog-141130?style=for-the-badge)](https://github.com/goldlexx/dog)
-[![Travel](https://img.shields.io/badge/-Travel-141130?style=for-the-badge)](https://github.com/goldlexx/travel)
-[![Site_card](https://img.shields.io/badge/-Site_card-141130?style=for-the-badge)](https://github.com/goldlexx/card-website)
+## Technologies
 
-### Учебные работы:
-[![Movies](https://img.shields.io/badge/-Movies-141130?style=for-the-badge)](https://github.com/goldlexx/movies-explorer-frontend/)
-[![Mesto](https://img.shields.io/badge/-Mesto-141130?style=for-the-badge)](https://github.com/goldlexx/react-mesto-api-full/)
-[![Russian_travel](https://img.shields.io/badge/-Russian_travel-141130?style=for-the-badge)](https://github.com/goldlexx/russian-travel)
-[![How_to_learn](https://img.shields.io/badge/-How_to_learn-141130?style=for-the-badge)](https://github.com/goldlexx/how-to-learn)
-[![Food](https://img.shields.io/badge/-Food-141130?style=for-the-badge)](https://github.com/goldlexx/food)
-[![Procrastinate](https://img.shields.io/badge/-Procrastinate-141130?style=for-the-badge)](https://github.com/goldlexx/procrastination)
+JavaScript · React · HTML · CSS · Sass · Node.js · Express · MongoDB · Mongoose · Vite · Webpack
 
-### React:
-[![Movies](https://img.shields.io/badge/-Movies-141130?style=for-the-badge)](https://github.com/goldlexx/movies-explorer-frontend/)
-[![Mesto_React](https://img.shields.io/badge/-Mesto_React-141130?style=for-the-badge)](https://github.com/goldlexx/mesto-react)
-[![Mesto_Auth](https://img.shields.io/badge/-Mesto_Auth-141130?style=for-the-badge)](https://goldlexx.github.io/react-mesto-auth)
-[![Marvel](https://img.shields.io/badge/-Marvel-141130?style=for-the-badge)](https://goldlexx.github.io/marvel/)
-[![Employee](https://img.shields.io/badge/-Employee-141130?style=for-the-badge)](https://goldlexx.github.io/salary/)
+## Featured projects
 
-### Приоритеты:
-+ 🧼 Стараюсь писать чистый код
-+ 🚀 Осваиваю новые технологии
-+ ⏱ Учусь анализировать сложность алгоритмов / улучшать производительность
+### [DachaDog](https://github.com/goldlexx/dog)
 
-### Используемые языки и технологии:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+Official website for a home dog-boarding service, with service information, pricing, reviews, FAQs, and a food calculator.
 
+- **Stack:** JavaScript, HTML, CSS, Webpack
+- **Website:** [dachadog.ru](https://dachadog.ru/)
+- **Repository:** [github.com/goldlexx/dog](https://github.com/goldlexx/dog)
 
+### [PRIDE ONE](https://github.com/goldlexx/goldlexx.github.io)
 
+A multi-page website for a breaking school, with school information, branch pages, schedules, pricing, and trial-class registration.
 
-### Codewars:
-![codewars](https://www.codewars.com/users/goldlexx/badges/small)
+- **Stack:** React 19, JavaScript, Vite 6
+- **Website:** [goldlexx.github.io](https://goldlexx.github.io/)
+- **Repository:** [github.com/goldlexx/goldlexx.github.io](https://github.com/goldlexx/goldlexx.github.io)
+- **Status:** The site is currently configured to show demo content where school materials have not been supplied.
 
+### [Mesto Full-stack](https://github.com/goldlexx/react-mesto-api-full)
 
-<div align="center">
-  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=goldlexx&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=goldlexx&&hide_border=trueshow_icons=true&theme=react"/>
-</div>
+A photo-sharing application with registration, authentication, profile editing, and photo-card interactions.
 
-<div align="center">
-  <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=goldlexx&hide_border=true&theme=react-dark"/>
-</div>
+- **Stack:** React, Node.js, Express, MongoDB, Mongoose
+- **Repository:** [github.com/goldlexx/react-mesto-api-full](https://github.com/goldlexx/react-mesto-api-full)
+- **Demo:** No live demo is listed because the legacy deployment host could not be resolved during verification.
 
-### Контакты:
-[![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/goldlexx)
-[![Yandex](https://img.shields.io/badge/-me@juldashev.ru-141130?style=for-the-badge&logo=Gmail)](mailto:me@juldashev.ru)
+### Movies Explorer
 
+A movie search application with registration, authentication, and saved movies. The frontend and API are maintained in separate repositories.
 
-![](https://komarev.com/ghpvc/?username=goldlexx&style=flat-square&color=blueviolet)
+- **Stack:** React, JavaScript, Node.js, Express, MongoDB
+- **Frontend:** [github.com/goldlexx/movies-explorer-frontend](https://github.com/goldlexx/movies-explorer-frontend)
+- **API:** [github.com/goldlexx/movies-explorer-api](https://github.com/goldlexx/movies-explorer-api)
+- **Demo:** No live demo is listed because the legacy deployment could not be verified.
+
+### [Marvel](https://github.com/goldlexx/marvel)
+
+A React information portal that uses the Marvel API to browse characters and related information.
+
+- **Stack:** React, JavaScript, React Router, Sass
+- **Repository:** [github.com/goldlexx/marvel](https://github.com/goldlexx/marvel)
+- **Demo:** [goldlexx.github.io/marvel](https://goldlexx.github.io/marvel/) — the page responds, but character data did not load during verification.
+
+## Areas of work
+
+- Responsive frontend development with React and modern CSS
+- REST API integration, authentication, and client-side application state
+- Backend development with Node.js, Express, and MongoDB
+
+## Learning projects
+
+Earlier course work and project iterations are grouped in [Learning Projects](LEARNING_PROJECTS.md).
+
+## Contact
+
+- **Email:** [me@juldashev.ru](mailto:me@juldashev.ru)
+- **Telegram:** [@goldlexx](https://t.me/goldlexx)
