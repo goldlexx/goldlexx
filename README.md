@@ -1,66 +1,47 @@
 # Ruslan Yuldashev
 
-I build web applications and websites, from responsive interfaces to full-stack projects.
+I build responsive web interfaces and full-stack web applications.
 
-## Technologies
+## Focus
 
-JavaScript · React · HTML · CSS · Sass · Node.js · Express · MongoDB · Mongoose · Vite · Webpack
+React, JavaScript, HTML, CSS, Sass, Node.js, REST APIs, authentication, Cloudflare Workers, and D1.
 
-## Featured projects
-
-### [DachaDog](https://github.com/goldlexx/dog)
-
-Official website for a home dog-boarding service, with service information, pricing, reviews, FAQs, and a food calculator.
-
-- **Stack:** JavaScript, HTML, CSS, Webpack
-- **Website:** [dachadog.ru](https://dachadog.ru/)
-- **Repository:** [github.com/goldlexx/dog](https://github.com/goldlexx/dog)
-
-### [PRIDE ONE](https://github.com/goldlexx/goldlexx.github.io)
-
-A multi-page website for a breaking school, with school information, branch pages, schedules, pricing, and trial-class registration.
-
-- **Stack:** React 19, JavaScript, Vite 6
-- **Website:** [goldlexx.github.io](https://goldlexx.github.io/)
-- **Repository:** [github.com/goldlexx/goldlexx.github.io](https://github.com/goldlexx/goldlexx.github.io)
-- **Status:** The site is currently configured to show demo content where school materials have not been supplied.
+## Selected Projects
 
 ### [Mesto Full-stack](https://github.com/goldlexx/react-mesto-api-full)
 
-A photo-sharing application with registration, authentication, profile editing, and photo-card interactions.
+A photo-sharing application with registration, JWT authentication, profile editing, cards, and likes.
 
-- **Stack:** React, Node.js, Express, MongoDB, Mongoose
-- **Repository:** [github.com/goldlexx/react-mesto-api-full](https://github.com/goldlexx/react-mesto-api-full)
-- **Demo:** No live demo is listed because the legacy deployment host could not be resolved during verification.
+- **Stack:** React, Cloudflare Workers, D1, Web Crypto
+- **Demo:** [Mesto](https://goldlexx.github.io/react-mesto-api-full/)
+- **API:** [Mesto Worker](https://mesto-api.rustik-yuldashev.workers.dev)
 
 ### Movies Explorer
 
-A movie search application with registration, authentication, and saved movies. The frontend and API are maintained in separate repositories.
+A movie-search app with a catalogue, short-film filtering, accounts, and a saved-movies list.
 
-- **Stack:** React, JavaScript, Node.js, Express, MongoDB
-- **Frontend:** [github.com/goldlexx/movies-explorer-frontend](https://github.com/goldlexx/movies-explorer-frontend)
-- **API:** [github.com/goldlexx/movies-explorer-api](https://github.com/goldlexx/movies-explorer-api)
-- **Demo:** No live demo is listed because the legacy deployment could not be verified.
+- **Stack:** React, Cloudflare Workers, D1, JavaScript
+- **Frontend:** [Repository](https://github.com/goldlexx/movies-explorer-frontend) · [Live demo](https://goldlexx.github.io/movies-explorer-frontend/)
+- **API:** [Repository](https://github.com/goldlexx/movies-explorer-api) · [Worker](https://movies-explorer-api.rustik-yuldashev.workers.dev)
 
-### [Marvel](https://github.com/goldlexx/marvel)
+### [Marvel Character Explorer](https://github.com/goldlexx/marvel)
 
-A React information portal that uses the Marvel API to browse characters and related information.
+A React app for searching Marvel Comics characters and viewing biographies and stats. It uses SuperHero API through a Cloudflare proxy and includes a clearly labeled demo mode.
 
-- **Stack:** React, JavaScript, React Router, Sass
-- **Repository:** [github.com/goldlexx/marvel](https://github.com/goldlexx/marvel)
-- **Demo:** [goldlexx.github.io/marvel](https://goldlexx.github.io/marvel/) — the page responds, but character data did not load during verification.
+- **Stack:** React, Vite, Sass, SuperHero API
+- **Demo:** [Marvel Explorer](https://goldlexx.github.io/marvel/)
+- **API proxy:** [Marvel Worker](https://marvel-api-proxy.rustik-yuldashev.workers.dev)
 
-## Areas of work
+## Other Projects
 
-- Responsive frontend development with React and modern CSS
-- REST API integration, authentication, and client-side application state
-- Backend development with Node.js, Express, and MongoDB
+- [DachaDog](https://github.com/goldlexx/dog)
+- [PRIDE ONE](https://github.com/goldlexx/goldlexx.github.io)
 
-## Learning projects
+## Learning Projects
 
-Earlier course work and project iterations are grouped in [Learning Projects](LEARNING_PROJECTS.md).
+Earlier coursework and experiments are collected in [Learning Projects](LEARNING_PROJECTS.md).
 
 ## Contact
 
-- **Email:** [me@juldashev.ru](mailto:me@juldashev.ru)
-- **Telegram:** [@goldlexx](https://t.me/goldlexx)
+- [Email](mailto:me@juldashev.ru)
+- [Telegram](https://t.me/goldlexx)
