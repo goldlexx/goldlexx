@@ -1,59 +1,53 @@
-# Ruslan Yuldashev
+<div align="center">
 
-I build responsive web interfaces and full-stack applications with JavaScript and React.
+# 👋 Ruslan Yuldashev
 
-## Real projects
+Веб-интерфейсы и full-stack приложения на JavaScript и React.
 
-### PRIDE ONE
+</div>
 
-A real website for a breaking school.
+## Реальные проекты
 
-- [Visit PRIDE ONE](https://goldlexx.github.io/)
-- [Source repository](https://github.com/goldlexx/goldlexx.github.io)
+### 🕺 [PRIDE ONE](https://github.com/goldlexx/goldlexx.github.io)
 
-### DachaDog
+Реальный сайт школы брейкинга: страницы школы и филиалов, расписание, цены и информация о занятиях.
 
-A real website for a dog boarding service.
+[Открыть сайт](https://goldlexx.github.io/)
 
-- [Source repository](https://github.com/goldlexx/dog)
+### 🐕 [DachaDog](https://github.com/goldlexx/dog)
 
-### PRIDE ONE Telegram Bot
+Реальный сайт домашней передержки собак с описанием услуг и контактами.
 
-A Telegram bot for PRIDE ONE, deployed on Cloudflare Workers.
+[Открыть сайт](https://dachadog.ru/)
 
-- [Source repository](https://github.com/goldlexx/PrideOneTg)
+### 🤖 [PRIDE ONE Telegram Bot](https://github.com/goldlexx/PrideOneTg)
 
-## Selected development projects
+Действующий Telegram-бот записи на тренировки, развёрнутый на Cloudflare Workers.
+
+## Избранные разработки
 
 ### [Mesto Full-stack](https://github.com/goldlexx/react-mesto-api-full)
 
-A photo-sharing application with registration, profiles, cards, and likes.
+Приложение для публикации фотографий, профилей, карточек и лайков.
 
-- **Stack:** React, Cloudflare Workers, D1, Web Crypto
-- **Demo:** [Mesto](https://goldlexx.github.io/react-mesto-api-full/)
-- **API:** [Mesto Worker](https://mesto-api.rustik-yuldashev.workers.dev)
+**Стек:** React, Cloudflare Workers, D1, Web Crypto  ·  [Демо](https://goldlexx.github.io/react-mesto-api-full/)  ·  [API](https://mesto-api.rustik-yuldashev.workers.dev)
 
-### Movies Explorer
+### [Movies Explorer](https://github.com/goldlexx/movies-explorer-frontend)
 
-A movie search app with a bundled demo catalogue, short-film filtering, accounts, and saved movies.
+Поиск фильмов, фильтр короткометражек и личный список сохранённых фильмов.
 
-- **Stack:** React, JavaScript, Cloudflare Workers, D1
-- **Frontend:** [Repository](https://github.com/goldlexx/movies-explorer-frontend) · [Demo](https://goldlexx.github.io/movies-explorer-frontend/)
-- **API:** [Repository](https://github.com/goldlexx/movies-explorer-api) · [Worker](https://movies-explorer-api.rustik-yuldashev.workers.dev)
+**Стек:** React, JavaScript, Cloudflare Workers, D1  ·  [Демо](https://goldlexx.github.io/movies-explorer-frontend/)  ·  [API](https://movies-explorer-api.rustik-yuldashev.workers.dev)
 
 ### [Marvel Character Explorer](https://github.com/goldlexx/marvel)
 
-A React app for searching Marvel characters and viewing biographies and stats. Uses the SuperHero API through a Cloudflare proxy and includes demo mode.
+Поиск персонажей Marvel с биографиями и характеристиками через SuperHero API.
 
-- **Stack:** React, Vite, Sass, SuperHero API
-- **Demo:** [Marvel Explorer](https://goldlexx.github.io/marvel/)
-- **API proxy:** [Marvel Worker](https://marvel-api-proxy.rustik-yuldashev.workers.dev)
+**Стек:** React, Vite, Sass, SuperHero API  ·  [Демо](https://goldlexx.github.io/marvel/)  ·  [Proxy Worker](https://marvel-api-proxy.rustik-yuldashev.workers.dev)
 
-## Other learning projects
+## Учебные проекты
 
-See the [learning projects index](LEARNING_PROJECTS.md) for course work and earlier experiments.
+Полный список учебных работ — в [индексе проектов](LEARNING_PROJECTS.md).
 
-## Contact
+## Контакты
 
-- [Email](mailto:me@juldashev.ru)
-- [Telegram](https://t.me/goldlexx)
+[Email](mailto:me@juldashev.ru) · [Telegram](https://t.me/goldlexx)
