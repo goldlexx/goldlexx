@@ -1,53 +1,47 @@
 <div align="center">
 
-# 👋 Ruslan Yuldashev
+# 👋 Руслан Юлдашев
 
-Веб-интерфейсы и full-stack приложения на JavaScript и React.
+**Разрабатываю веб-интерфейсы на JavaScript и React. В портфолио — сайты для реальных задач, Telegram-бот и приложения со своим API.**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-806900) ![React](https://img.shields.io/badge/React-087E98) ![Workers](https://img.shields.io/badge/Workers-A54809)
+
+[Реальные проекты](#реальные-проекты) · [Избранные разработки](#избранные-разработки) · [Контакты](#контакты)
 
 </div>
 
 ## Реальные проекты
 
-### 🕺 [PRIDE ONE](https://github.com/goldlexx/goldlexx.github.io)
+### PRIDE ONE · школа брейкинга
 
-Реальный сайт школы брейкинга: страницы школы и филиалов, расписание, цены и информация о занятиях.
+Сайт помогает выбрать зал, сверить расписание и перейти к записи на пробное занятие. Страницы филиалов и общая сетка используют один источник данных. Реализация на React и Vite с пререндером для статического хостинга.
 
-[Открыть сайт](https://goldlexx.github.io/)
+[Сайт школы](https://goldlexx.github.io/) · [Репозиторий](https://github.com/goldlexx/goldlexx.github.io)
 
-### 🐕 [DachaDog](https://github.com/goldlexx/dog)
+### ДачаДог · домашняя передержка собак
 
-Реальный сайт домашней передержки собак с описанием услуг и контактами.
+Владелец собаки может посмотреть условия проживания, связаться с хозяйкой и рассчитать запас корма на время поездки. Главная и калькулятор собраны на JavaScript и Webpack.
 
-[Открыть сайт](https://dachadog.ru/)
+[Сайт](https://dachadog.ru/) · [Калькулятор](https://dachadog.ru/tools/food-calculator/) · [Репозиторий](https://github.com/goldlexx/dog)
 
-### 🤖 [PRIDE ONE Telegram Bot](https://github.com/goldlexx/PrideOneTg)
+### PRIDE ONE · Telegram-бот записи
 
-Действующий Telegram-бот записи на тренировки, развёрнутый на Cloudflare Workers.
+Бот ведёт записи на тренировки в группе филиала. Родитель выбирает занятие, тренер видит список участников. Worker и Durable Object с SQLite согласуют состояние записи между чатом и Telegram Mini App.
+
+[Репозиторий и демонстрация](https://github.com/goldlexx/PrideOneTg)
 
 ## Избранные разработки
 
-### [Mesto Full-stack](https://github.com/goldlexx/react-mesto-api-full)
-
-Приложение для публикации фотографий, профилей, карточек и лайков.
-
-**Стек:** React, Cloudflare Workers, D1, Web Crypto  ·  [Демо](https://goldlexx.github.io/react-mesto-api-full/)  ·  [API](https://mesto-api.rustik-yuldashev.workers.dev)
-
-### [Movies Explorer](https://github.com/goldlexx/movies-explorer-frontend)
-
-Поиск фильмов, фильтр короткометражек и личный список сохранённых фильмов.
-
-**Стек:** React, JavaScript, Cloudflare Workers, D1  ·  [Демо](https://goldlexx.github.io/movies-explorer-frontend/)  ·  [API](https://movies-explorer-api.rustik-yuldashev.workers.dev)
-
-### [Marvel Character Explorer](https://github.com/goldlexx/marvel)
-
-Поиск персонажей Marvel с биографиями и характеристиками через SuperHero API.
-
-**Стек:** React, Vite, Sass, SuperHero API  ·  [Демо](https://goldlexx.github.io/marvel/)  ·  [Proxy Worker](https://marvel-api-proxy.rustik-yuldashev.workers.dev)
+| Проект | Что посмотреть | Ссылки |
+| --- | --- | --- |
+| **Mesto Full-stack** | Фотокарточки, профиль и лайки. React, REST API на Workers и D1. | [Сайт](https://goldlexx.github.io/react-mesto-api-full/) · [Код](https://github.com/goldlexx/react-mesto-api-full) |
+| **Movies Explorer** | Поиск в локальном демонстрационном каталоге, фильтр по длительности и личная коллекция с сохранением в D1. | [Сайт](https://goldlexx.github.io/movies-explorer-frontend/) · [Клиент](https://github.com/goldlexx/movies-explorer-frontend) · [API](https://github.com/goldlexx/movies-explorer-api) |
+| **Marvel Character Explorer** | Поиск героев через SuperHero API, биографии и характеристики. Для просмотра без внешнего сервиса есть деморежим. | [Сайт](https://goldlexx.github.io/marvel/) · [Код](https://github.com/goldlexx/marvel) |
 
 ## Учебные проекты
 
-Полный список учебных работ — в [индексе проектов](LEARNING_PROJECTS.md).
+Green Table показывает работу с формами и состояниями интерфейса. «Путешествия по России» — адаптивную редакционную вёрстку. Другие примеры собраны в [указателе учебных работ](LEARNING_PROJECTS.md).
 
 ## Контакты
 
-[Email](mailto:me@juldashev.ru) · [Telegram](https://t.me/goldlexx)
+[me@juldashev.ru](mailto:me@juldashev.ru) · [Telegram](https://t.me/goldlexx)
