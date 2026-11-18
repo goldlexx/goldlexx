@@ -28,7 +28,7 @@
 
 Бот ведёт записи на тренировки в группе филиала. Родитель выбирает занятие, тренер видит список участников. Worker и Durable Object с SQLite согласуют состояние записи между чатом и Telegram Mini App.
 
-[Репозиторий и демонстрация](https://github.com/goldlexx/PrideOneTg)
+[Открыть в Telegram](https://t.me/PrideOneBookingBot) · [Репозиторий и демонстрация](https://github.com/goldlexx/PrideOneTg)
 
 ## Избранные разработки
 
